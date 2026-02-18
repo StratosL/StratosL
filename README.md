@@ -1,6 +1,6 @@
 ### Hi, I'm Stratos Louvaris
 
-I build secure, production-ready AI agent systems, and I teach others how to do the same.
+I build secure, production-ready AI agent systems.
 
 Most AI demos look impressive. Most AI demos also break on the second real interaction. The gap between prototype and production isn't the model, it's the architecture, the security boundaries, and the failure handling that nobody talks about.
 
