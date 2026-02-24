@@ -38,6 +38,9 @@ I write at [Stratos on Tech](https://blog.stratoslouvaris.gr/) — breaking down
 
 | Article | Topic |
 |---------|-------|
+| [11 Advanced RAG Strategies That Separate Demos From Production Systems (Part 3)](https://blog.stratoslouvaris.gr/11-advanced-rag-strategies-part-3/) | RAG, production AI |
+| [The RAG Foundation: Embeddings, Vector Databases, and Chunking (Part 2)](https://blog.stratoslouvaris.gr/the-rag-foundation-part-2/) | RAG, embeddings, vector DBs |
+| [What Is RAG and Why Your LLM Needs It (Part 1)](https://blog.stratoslouvaris.gr/what-is-rag-part-1/) | RAG, LLMs |
 | [How to Use Google's NotebookLM as Your Personal Learning Assistant](https://blog.stratoslouvaris.gr/notebooklm/) | AI tools |
 | [Self-Hosting LLMs with Ollama (AI for Sysadmins Part 2)](https://blog.stratoslouvaris.gr/self-hosted-ai-guide-sysadmins/) | Self-hosted AI |
 | [From Neural Networks to the MLOps Factory Floor (Part 1)](https://blog.stratoslouvaris.gr/the-ultimate-guide-to-ai-for-sysadmins-part-1/) | AI fundamentals |
