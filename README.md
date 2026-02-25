@@ -2,9 +2,9 @@
 
 I build secure, production-ready AI agent systems.
 
-Most AI demos look impressive. Most AI demos also break on the second real interaction. The gap between prototype and production isn't the model, it's the architecture, the security boundaries, and the failure handling that nobody talks about.
+Most AI demos look impressive. Most AI demos also break on the second real interaction. The gap between prototype and production isn't the model — it's the architecture, the security boundaries, and the failure handling that nobody talks about.
 
-That's what I focus on: helping engineers build AI systems that actually work in the real world. No hype. No buzzwords. Just practical implementation, security-first thinking, and first-principles engineering.
+That's what I build: AI systems that actually work in the real world. No hype. No buzzwords. Just practical implementation, security-first thinking, and first-principles engineering.
 
 ---
 
@@ -26,7 +26,7 @@ My work sits at the intersection of three things:
 |---------|-------------|
 | **[Artemis](https://github.com/StratosL/Artemis)** | Personal productivity web app implementing proven productivity techniques with a modern, dark-themed interface |
 | **[Athena](https://github.com/StratosL/Athena)** | AI-powered application built with TypeScript |
-| **[Arete](https://github.com/StratosL/Arete)** | AI-Powered Resume Optimizer for Tech Professionals | AWS Hackathon Project that Honorable mentioned |
+| **[Arete](https://github.com/StratosL/Arete)** | AI-powered tool built with Python |
 
 > These projects are in active development. Star them to follow progress.
 
@@ -55,7 +55,7 @@ I write at [Stratos on Tech](https://blog.stratoslouvaris.gr/) — breaking down
 1. Security is a foundation, not a feature you add later.
 2. If it doesn't work in production, it doesn't work.
 3. Complexity should serve the user, never the architecture.
-4. Teach by showing the messy middle, not just polished results.
+4. Document the messy middle, not just polished results.
 ```
 
 ---
