@@ -25,8 +25,8 @@ My work sits at the intersection of three things:
 | Project | What It Does |
 |---------|-------------|
 | **[Artemis](https://github.com/StratosL/Artemis)** | Personal productivity web app implementing proven productivity techniques with a modern, dark-themed interface |
-| **[Athena](https://github.com/StratosL/Athena)** | AI-powered application built with TypeScript |
-| **[Arete](https://github.com/StratosL/Arete)** | AI-powered tool built with Python |
+| **[Athena](https://github.com/StratosL/Athena)** | Athena - Second Brain Orchestrator Agent |  Elastic Agent Builder Hackathon |
+| **[Arete](https://github.com/StratosL/Arete)** | Arete - AI-Powered Resume Optimizer for Tech Professionals | 
 
 > These projects are in active development. Star them to follow progress.
 
