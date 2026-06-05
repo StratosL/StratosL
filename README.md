@@ -25,8 +25,8 @@ My work sits at the intersection of three things:
 | Project | What It Does |
 |---------|-------------|
 | **[Artemis](https://github.com/StratosL/Artemis)** | Personal productivity web app implementing proven productivity techniques with a modern, dark-themed interface |
-| **[Athena](https://github.com/StratosL/Athena)** | Athena - Second Brain Orchestrator Agent |  Elastic Agent Builder Hackathon |
-| **[Arete](https://github.com/StratosL/Arete)** | Arete - AI-Powered Resume Optimizer for Tech Professionals | 
+| **[Athena](https://github.com/StratosL/Athena)** | AI-powered application built with TypeScript |
+| **[Arete](https://github.com/StratosL/Arete)** | AI-powered tool built with Python |
 
 > These projects are in active development. Star them to follow progress.
 
@@ -38,6 +38,7 @@ I write at [Stratos on Tech](https://blog.stratoslouvaris.gr/) — breaking down
 
 | Article | Topic |
 |---------|-------|
+| [What MCP Actually Is: Architecture, Primitives, and Why It Exists (Part 1 of 2)](https://blog.stratoslouvaris.gr/mcp-server-part-1/) | MCP, AI agents |
 | [11 Advanced RAG Strategies That Separate Demos From Production Systems (Part 3)](https://blog.stratoslouvaris.gr/11-advanced-rag-strategies-part-3/) | RAG, production AI |
 | [The RAG Foundation: Embeddings, Vector Databases, and Chunking (Part 2)](https://blog.stratoslouvaris.gr/the-rag-foundation-part-2/) | RAG, embeddings, vector DBs |
 | [What Is RAG and Why Your LLM Needs It (Part 1)](https://blog.stratoslouvaris.gr/what-is-rag-part-1/) | RAG, LLMs |
