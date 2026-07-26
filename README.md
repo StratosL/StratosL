@@ -38,6 +38,8 @@ I write at [Stratos on Tech](https://blog.stratoslouvaris.gr/) — breaking down
 
 | Article | Topic |
 |---------|-------|
+| [Agent Skills Explained: What They Are, How to Use Them, and How They Differ From MCP](https://blog.stratoslouvaris.gr/agent-skills-explained/) | Agent skills, MCP |
+| [Running MCP in Production: Where Demos Break and How to Harden It (Part 2 of 2)](https://blog.stratoslouvaris.gr/mcp-server-part-2/) | MCP, production hardening |
 | [What MCP Actually Is: Architecture, Primitives, and Why It Exists (Part 1 of 2)](https://blog.stratoslouvaris.gr/mcp-server-part-1/) | MCP, AI agents |
 | [11 Advanced RAG Strategies That Separate Demos From Production Systems (Part 3)](https://blog.stratoslouvaris.gr/11-advanced-rag-strategies-part-3/) | RAG, production AI |
 | [The RAG Foundation: Embeddings, Vector Databases, and Chunking (Part 2)](https://blog.stratoslouvaris.gr/the-rag-foundation-part-2/) | RAG, embeddings, vector DBs |
