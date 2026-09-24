@@ -38,6 +38,7 @@ I write at [Stratos on Tech](https://blog.stratoslouvaris.gr/) — breaking down
 
 | Article | Topic |
 |---------|-------|
+| [Single-Agent vs Multi-Agent Architecture: Where You Can Afford to Lose Context](https://blog.stratoslouvaris.gr/single-agent-vs-multi-agent-architecture-where-you-can-afford-to-lose-context/) | Multi-agent architecture, context handoffs |
 | [Agent Harness Explained: What It Is, When to Use One, and How to Build Your Own](https://blog.stratoslouvaris.gr/agent-harness-explained/) | Agent harness, context engineering |
 | [Building an Eval Stack That Catches Regressions: Judges, RAG Metrics, and CI Gates (Part 2 of 2)](https://blog.stratoslouvaris.gr/llm-judges-eval-frameworks-part-2/) | Evals, LLM judges, CI gates |
 | [Evaluating AI Agents: Why 95% Per-Step Accuracy Is a Failing Grade (Part 1 of 2)](https://blog.stratoslouvaris.gr/evaluating-ai-agents-part-1/) | Agent evaluation |
